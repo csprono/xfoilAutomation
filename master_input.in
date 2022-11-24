@@ -1,0 +1,12 @@
+LOAD naca2412.dat 
+naca5521
+PANE
+OPER
+VISC 500000
+PACC
+polar_file.txt
+
+ITER 100
+ASeq 5 10 1
+
+quit

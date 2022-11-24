@@ -1,0 +1,10 @@
+NACA 001
+PANE
+OPER
+VISC 446694460
+PACC
+polar_file.txt
+
+ITER 100
+ASeq 0 10 1
+quit
